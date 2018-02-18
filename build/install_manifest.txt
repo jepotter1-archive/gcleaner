@@ -1,0 +1,14 @@
+/usr/bin/gcleaner
+/usr/share/gcleaner/gtk-widgets-gcleaner.css
+/usr/share/applications/gcleaner.desktop
+/usr/share/icons/hicolor/24x24/apps/gcleaner.svg
+/usr/share/icons/hicolor/32x32/apps/gcleaner.svg
+/usr/share/icons/hicolor/48x48/apps/gcleaner.svg
+/usr/share/icons/hicolor/64x64/apps/gcleaner.svg
+/usr/share/icons/hicolor/128x128/apps/gcleaner.svg
+/usr/share/pixmaps/gcleanertb.svg
+/usr/share/pixmaps/gcleanerhb.svg
+/usr/share/gcleaner/media/firefox16.png
+/usr/share/gcleaner/media/chrome16.png
+/usr/share/gcleaner/media/flash16.png
+/usr/share/glib-2.0/schemas/org.gcleaner.gschema.xml
